@@ -2,15 +2,9 @@ package com.cf.cflock;
 
 
         import android.app.Activity;
-        import android.app.admin.DevicePolicyManager;
-        import android.content.Intent;
-        import android.os.Bundle;
-        import android.util.Log;
-        import android.view.Menu;
-        import android.view.MenuItem;
-
-        import java.util.Timer;
-        import java.util.TimerTask;
+import android.app.admin.DevicePolicyManager;
+import android.content.Intent;
+import android.os.Bundle;
 
 public class MainActivity extends Activity {
 
