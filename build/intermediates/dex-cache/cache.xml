@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<pre-dex-items>
+<items version="2" >
 
     <item
-        dex="D:\cjc_project\C.F.lock\app\build\intermediates\pre-dexed\debug\classes-47285503d8520dd7eab0e983b01d7e10bbc4ec72.jar"
-        jar="D:\cjc_project\C.F.lock\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jar="D:\cjc_project\C.F.lock\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\cjc_project\C.F.lock\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-0b7675d950607a5db01dc6ee258318ffa8e14b4b.jar" />
+    </item>
     <item
-        dex="D:\cjc_project\C.F.lock\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-bc46c6304750d2574f775d6e1fffc709f3c5581b.jar"
-        jar="D:\Program Files\android_studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jar="D:\cjc_project\C.F.lock\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\cjc_project\C.F.lock\app\build\intermediates\pre-dexed\debug\classes-72b0a3303d30e340b4fc15fa56b6d1a7f758000b.jar" />
+    </item>
+    <item
+        jar="D:\cjc_project\C.F.lock\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\cjc_project\C.F.lock\app\build\intermediates\pre-dexed\debug\classes-71cba2415d112c311e88b8c3d53d660619895bf2.jar" />
+    </item>
+    <item
+        jar="D:\cjc_project\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\cjc_project\C.F.lock\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-28410b66b23d74983291405cfff63bc02ab2358f.jar" />
+    </item>
 
-</pre-dex-items>
+</items>
